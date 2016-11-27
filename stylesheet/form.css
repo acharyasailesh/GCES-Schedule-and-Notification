@@ -1,0 +1,76 @@
+.formTopic{
+	width: 100%;
+	text-align: center;
+	margin: 30px 0px 10px 0px;
+	padding: 10px 0px;
+	color: darkblue;
+	font: bold 28px myWebFont2;
+}
+.form{
+	border: 1px solid #90d0ef;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-o-border-radius: 2px;
+	border-radius: 2px;
+	width: 350px;
+	margin: 0px auto;
+	background-color: #a0e0ff;
+	-webkit-box-shadow: 0px 0px 12px 1px blue;
+	-moz-box-shadow: 0px 0px 12px 1px blue;
+	-o-box-shadow: 0px 0px 12px 1px blue;
+	box-shadow: 0px 0px 12px 1px blue;
+}
+.profilePic{
+	height: 100px;
+	border-radius: 50%;
+	border: 1px solid black;
+}
+p{
+	margin: 5px auto;
+}
+.form > div{
+	text-align: center;
+	width: 350px;
+	margin: 10px auto;
+}
+label{
+	color: darkblue;
+}
+.button{
+	width: 270px;
+}
+.input{
+	padding: 0px 15px;
+	width: 240px;
+	height: 35px;
+	border: 1px solid #88c8e6;
+	border-radius: 2px;
+}
+.input:hover, .input:focus{
+    border-color: #5050ff;
+    box-shadow: 0px 0px 1px #6060ff inset;
+    -moz-box-shadow: 0px 0px 1px #6060ff inset;
+    -webkit-box-shadow: 0px 0px 1px #6060ff inset;
+}
+::-webkit-input-placeholder {
+   color: #2222f9;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #2222f9;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #2222f9;
+}
+
+:-ms-input-placeholder { /*ie*/
+   color: #2222f9;
+}
+.formFoot{
+	margin: 10px auto;
+	width: 350px;
+}
+.formFoot a{
+	text-align: center;
+}

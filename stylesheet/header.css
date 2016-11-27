@@ -1,0 +1,41 @@
+header{
+	width: 100%;
+	border-bottom: 2px solid #000000;
+	background: -moz-linear-gradient(#ADD8E6,white);/*for mozilla*/
+    background: -webkit-linear-gradient(#ADD8E6,white);/*for crome and safari*/
+    background: -o-linear-gradient(#ADD8E6,white);/*for opera*/
+	background: linear-gradient(#ADD8E6,white);
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	z-index: 1;
+}
+.headMain{
+	width: 1080px;
+	height: 120px;
+	margin: 0px auto;
+}
+.div{
+	float: left;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	margin: 10px 0px;
+}
+.title{
+	width: 860px;
+	line-height: 50px;
+	padding: 10px;
+	color: darkblue;
+	font: bold 38px myWebFont1;
+}
+.login{
+	padding: 40px 0px;
+}
+.headbar{
+	color: #90c0e0;
+	background-color: #90c0e0;
+	font-size: 13px;
+	margin: 127px 0px 0px 0px;
+}

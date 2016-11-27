@@ -1,0 +1,41 @@
+.button{
+    width: 100px;
+	font: bold 16px myWebFont;
+	padding: 6px;
+	background: #4479BA;
+	color: #ffffff;
+	border: solid 1px darkblue;
+    text-decoration: none;
+
+	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -o-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+
+    -webkit-user-select:none;/*disabeling copying of text from button*/ 
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+.button:hover, .button:focus {
+    background: #356094;
+    border: solid 1px #2A4E77;
+    
+	-webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+.button:active {
+    -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    -o-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    
+    background: #2E5491;
+    border: solid 1px #203E5F;
+}

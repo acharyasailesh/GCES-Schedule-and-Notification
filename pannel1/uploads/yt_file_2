@@ -1,0 +1,1749 @@
+<!DOCTYPE html><html lang="en" data-cast-api-enabled="true"><head><script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.perf = w.performance || w.mozPerformance ||w.msPerformance || w.webkitPerformance;ytcsi.setStart('dhs', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}})(window, document);</script>  <script>
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){var b={d:"content-snap-width-1",g:"content-snap-width-2",j:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}function g(a){var c=f().concat(["guide-pinned","show-guide"]),d=c.length,e=[];a.replace(/\S+/g,function(a){for(var k=0;k<d;k++)if(a==c[k])return;e.push(a)});return e};function l(a,c,d){var e=document.getElementsByTagName("html")[0],h=g(e.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),c&&h.push("show-guide"));d&&(d=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(d-=230),h.push(1262<=d?"content-snap-width-3":1056<=d?"content-snap-width-2":"content-snap-width-1"));e.className=h.join(" ")}
+var m=["yt","www","masthead","sizing","runBeforeBodyIsReady"],n=this;m[0]in n||!n.execScript||n.execScript("var "+m[0]);for(var p;m.length&&(p=m.shift());)m.length||void 0===l?n[p]?n=n[p]:n=n[p]={}:n[p]=l;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,false,true);
+  </script>
+
+
+
+        <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vflpyQqZs/www-scheduler.js" type="text/javascript" name="www-scheduler/www-scheduler"></script>
+
+
+    <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+
+
+        <script src="//s.ytimg.com/yts/jsbin/html5player-en_US-vflXs0FWW/html5player.js" type="text/javascript" name="html5player/html5player"></script>
+
+
+
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-webp-vflD0o_Su.css" name="www-core">
+      <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-player-webp-vflo9SPmR.css" name="www-player">
+
+
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-pageframe-webp-vflO8ZXkF.css" name="www-pageframe">
+  
+      <script>ytimg.preload("http:\/\/r1---sn-ox25auxaxjvh-3uhe.googlevideo.com\/crossdomain.xml");ytimg.preload("http:\/\/r1---sn-ox25auxaxjvh-3uhe.googlevideo.com\/generate_204");</script>
+
+
+<title>Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4 - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="shortcut icon" href="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="canonical" href="http://www.youtube.com/watch?v=MPSRRcZ1H-w"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=MPSRRcZ1H-w"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=MPSRRcZ1H-w"><link rel="shortlink" href="http://youtu.be/MPSRRcZ1H-w">      <meta name="title" content="Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+
+      <meta name="description" content="Album Khukuriko Dhaar is Comming soon with video Lyrics ,Music,Dorection By Roshan Fyuba. Vocal By Roshan,Ramala Pakhrin,Jongba Kanchha Marketing And Distibu...">
+
+      <meta name="keywords" content="youtube">
+
+      <link rel="alternate" href="android-app://com.google.android.youtube/http/youtube.com/watch/MPSRRcZ1H-w">
+
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMPSRRcZ1H-w" title="Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMPSRRcZ1H-w" title="Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+
+        <meta property="og:site_name" content="YouTube">
+      <meta property="og:url" content="http://www.youtube.com/watch?v=MPSRRcZ1H-w">
+    <meta property="og:title" content="Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+    <meta property="og:image" content="http://i.ytimg.com/vi/MPSRRcZ1H-w/hqdefault.jpg">
+
+      <meta property="og:description" content="Album Khukuriko Dhaar is Comming soon with video Lyrics ,Music,Dorection By Roshan Fyuba. Vocal By Roshan,Ramala Pakhrin,Jongba Kanchha Marketing And Distibu...">
+
+    <meta property="al:ios:app_store_id" content="544007664">
+    <meta property="al:ios:app_name" content="YouTube">
+      <meta property="al:ios:url" content="vnd.youtube://www.youtube.com/watch?v=MPSRRcZ1H-w&amp;feature=applinks">
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=MPSRRcZ1H-w&amp;feature=applinks">
+    <meta property="al:android:app_name" content="YouTube">
+    <meta property="al:android:package" content="com.google.android.youtube">
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=MPSRRcZ1H-w&amp;feature=applinks">
+
+    <meta property="og:type" content="video">
+        <meta property="og:video" content="http://www.youtube.com/v/MPSRRcZ1H-w?autohide=1&amp;version=3">
+        <meta property="og:video:secure_url" content="https://www.youtube.com/v/MPSRRcZ1H-w?autohide=1&amp;version=3">
+      <meta property="og:video:type" content="application/x-shockwave-flash">
+      <meta property="og:video:width" content="480">
+      <meta property="og:video:height" content="360">
+
+        <meta property="og:video:tag" content="youtube">
+
+    <meta property="fb:app_id" content="87741124305">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@youtube">
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=MPSRRcZ1H-w">
+    <meta name="twitter:title" content="Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+    <meta name="twitter:description" content="Album Khukuriko Dhaar is Comming soon with video Lyrics ,Music,Dorection By Roshan Fyuba. Vocal By Roshan,Ramala Pakhrin,Jongba Kanchha Marketing And Distibu...">
+    <meta name="twitter:image" content="http://i.ytimg.com/vi/MPSRRcZ1H-w/hqdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" content="YouTube">
+    <meta name="twitter:app:id:ipad" content="544007664">
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=MPSRRcZ1H-w&amp;feature=applinks">
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=MPSRRcZ1H-w&amp;feature=applinks">
+    <meta name="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=MPSRRcZ1H-w">
+      <meta name="twitter:player" content="https://www.youtube.com/embed/MPSRRcZ1H-w">
+      <meta name="twitter:player:width" content="480">
+      <meta name="twitter:player:height" content="360">
+
+      <meta name=attribution content=MusicNepalPvtLtd%2Buser/>  
+<style>.watch-meta-item{clear:both} #watch7-views-info .watch-view-count{letter-spacing: 0}</style><!-- Smart CSS Insertion --></head>    <body dir="ltr" class="  ltr  webkit webkit-537  exp-innertube-history exp-playlist-controls   site-center-aligned site-as-giant-card appbar-hidden     not-nirvana-dogfood  not-yt-legacy-css    flex-width-enabled      flex-width-enabled-snap    delayed-frame-styles-not-in  " id="body">
+
+  <div id="early-body"></div>
+  <div id="body-container"><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter"><div id="yt-masthead" class=""><div class="yt-masthead-logo-container ">    <a id="logo-container" href="/" title="YouTube home" class="     spf-link 
+"><img id="logo" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"></a>
+  <div id="appbar-guide-button-container">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" aria-controls="appbar-guide-menu" id="appbar-guide-button" aria-label="Guide"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+    <div id="appbar-guide-button-notification-check" class="yt-valign">
+      <span class="appbar-guide-notification-icon yt-valign-content yt-sprite"></span>
+    </div>
+  </div>
+  <div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=mhsb&amp;ei=Ww5vVP-1K4iGogPOzoHYAg" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3Dsign_in_button%26app%3Ddesktop%26action_handle_signin%3Dtrue&amp;passive=true&amp;hl=en"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; _gel(&#39;masthead-search&#39;).submit(); return false;;return true;" tabindex="2" dir="ltr" id="search-btn"><span class="yt-uix-button-content">Search </span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><label><input id="masthead-search-term" autocomplete="off"  class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"></label></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  watch      watch-non-stage-mode   clearfix"><div id="guide" class="yt-scrollbar">    <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+    <div id="guide-container">
+      <div class="guide-module-content guide-module-loading">
+          
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      </div>
+    </div>
+  </div>
+
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">      
+
+
+
+</div></div><div id="header"></div><div id="player" class="      watch-small  "><div id="theater-background" class="player-height"></div>  <div id="player-mole-container">
+
+    <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+              <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt="">
+  <div class="content">
+    <h1 id="unavailable-message" class="message">
+            This video is unavailable.
+    </h1>
+    <div id="unavailable-submessage" class="submessage">
+    </div>
+  </div>
+
+
+    </div>
+
+    <div id="player-api" class="player-width player-height off-screen-target player-api"></div>
+        <script>if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"url": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl_TnA9m\/watch_as3.swf", "sts": 16392, "attrs": {"id": "movie_player"}, "params": {"allowfullscreen": "true", "allowscriptaccess": "always", "bgcolor": "#000000"}, "args": {"plid": "AAUIW5TbQbdZI8T-", "fmt_list": "43\/426x240\/99\/0\/0,18\/426x240\/9\/0\/115,5\/426x240\/7\/0\/0,36\/426x240\/99\/1\/0,17\/256x144\/99\/1\/0", "thumbnail_url": "http:\/\/i.ytimg.com\/vi\/MPSRRcZ1H-w\/default.jpg", "view_count": "8356", "adaptive_fmts": "itag=133\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400d%22\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D133%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26dur%3D98.100%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26clen%3D3007790%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cms%252Cmv%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D984A867477261FB2091FABF3C5E9DD19F1BEE50C.593FD590567449D03C5AFF808451919208C7B587%26ipbits%3D0%26mm%3D31%26lmt%3D1380606476394309%26mt%3D1416564252%26key%3Dyt5%26expire%3D1416585916%26keepalive%3Dyes%26ip%3D49.244.172.63%26sver%3D3%26gir%3Dyes%26mime%3Dvideo%252Fmp4\u0026clen=3007790\u0026init=0-672\u0026fps=30\u0026bitrate=247505\u0026lmt=1380606476394309\u0026size=320x240\u0026index=673-944,itag=160\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42c00c%22\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D160%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26dur%3D98.100%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26clen%3D1345511%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cms%252Cmv%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D08F2BF8C78C302398459A37C881F64C77859B544.6AD6DC87466B9A110C4E8ECBCDF999E2B15997FA%26ipbits%3D0%26mm%3D31%26lmt%3D1380606476388641%26mt%3D1416564252%26key%3Dyt5%26expire%3D1416585916%26keepalive%3Dyes%26ip%3D49.244.172.63%26sver%3D3%26gir%3Dyes%26mime%3Dvideo%252Fmp4\u0026clen=1345511\u0026init=0-671\u0026fps=15\u0026bitrate=112380\u0026lmt=1380606476388641\u0026size=192x144\u0026index=672-943,itag=140\u0026clen=1560212\u0026type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026lmt=1380606476459471\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D140%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26dur%3D98.197%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26clen%3D1560212%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cms%252Cmv%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D7EA612BF34633F4F178176436D849B65B0124613.97D2C4F57B11E41BA0B16AD246B75358F57F5959%26ipbits%3D0%26mm%3D31%26lmt%3D1380606476459471%26mt%3D1416564252%26key%3Dyt5%26expire%3D1416585916%26keepalive%3Dyes%26ip%3D49.244.172.63%26sver%3D3%26gir%3Dyes%26mime%3Daudio%252Fmp4\u0026bitrate=127824\u0026projection_type=1\u0026init=0-591\u0026index=592-743", "author": "TheSangul", "fexp": "3300016,3300106,3300133,3300137,3312197,3312478,907259,912328,927622,932404,938644,943909,946008,947209,947215,948124,952302,952605,952901,953912,957103,957105,957201", "storyboard_spec": "http:\/\/i.ytimg.com\/sb\/MPSRRcZ1H-w\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#yf4KR1SEL_5dFjkCSgBf4V-affw|60#45#100#10#10#1000#M$M#1-kDUOtTXFrWSBViPFhM1SUbGpk|120#90#100#5#5#1000#M$M#TtOWjNHXISz4_1eXy883MuDpCwk", "cr": "US", "cl": "80419164", "vm": "CAI", "tmi": "1", "iurlhq": "http:\/\/i.ytimg.com\/vi\/MPSRRcZ1H-w\/hqdefault.jpg", "loaderUrl": "http:\/\/www.youtube.com\/watch?v=MPSRRcZ1H-w", "keywords": "youtube", "url_encoded_fmt_stream_map": "itag=43\u0026quality=medium\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026fallback_host=tc.v10.cache8.googlevideo.com\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D43%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cmime%252Cmm%252Cms%252Cmv%252Cratebypass%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D8F3FF2156714F10733BD2E46D48614CAB07C65E4.84EABC5B532D70BED67BCA29FE586FB034503CB0%26ip%3D49.244.172.63%26mm%3D31%26mt%3D1416564252%26ratebypass%3Dyes%26key%3Dyt5%26expire%3D1416585915%26ipbits%3D0%26sver%3D3%26mime%3Dvideo%252Fwebm,itag=18\u0026quality=medium\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026fallback_host=tc.v13.cache3.googlevideo.com\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D18%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cmime%252Cmm%252Cms%252Cmv%252Cratebypass%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D7877A2F4CF18B7D0CF34A8EA29917E9DF35BD637.CE76CBD00120751255CF171685441E49B0474994%26ip%3D49.244.172.63%26mm%3D31%26mt%3D1416564252%26ratebypass%3Dyes%26key%3Dyt5%26expire%3D1416585915%26ipbits%3D0%26sver%3D3%26mime%3Dvideo%252Fmp4,itag=5\u0026quality=small\u0026type=video%2Fx-flv\u0026fallback_host=tc.v17.cache1.googlevideo.com\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D5%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cmime%252Cmm%252Cms%252Cmv%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D3656AA25D53A1FC43E020827C08367CE1AFC0CA1.C6077B4E8B0144297A775E3515E40291961C3147%26ip%3D49.244.172.63%26mm%3D31%26mt%3D1416564252%26key%3Dyt5%26expire%3D1416585915%26ipbits%3D0%26sver%3D3%26mime%3Dvideo%252Fx-flv,itag=36\u0026quality=small\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026fallback_host=tc.v11.cache1.googlevideo.com\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D36%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cmime%252Cmm%252Cms%252Cmv%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D0A4ED4B43AA572D479DBBAFEDBBE783553880592.68FE2FC96697A196707ED841BE7355E29092AA42%26ip%3D49.244.172.63%26mm%3D31%26mt%3D1416564252%26key%3Dyt5%26expire%3D1416585916%26ipbits%3D0%26sver%3D3%26mime%3Dvideo%252F3gpp,itag=17\u0026quality=small\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026fallback_host=tc.v16.cache6.googlevideo.com\u0026url=http%3A%2F%2Fr1---sn-ox25auxaxjvh-3uhe.googlevideo.com%2Fvideoplayback%3Fitag%3D17%26ms%3Dau%26initcwndbps%3D282500%26mv%3Dm%26source%3Dyoutube%26id%3Do-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0%26fexp%3D3300016%252C3300016%252C3300106%252C3300106%252C3300133%252C3300133%252C3300137%252C3300137%252C3312197%252C3312197%252C3312478%252C3312478%252C907259%252C912328%252C927622%252C932404%252C938644%252C943909%252C946008%252C947209%252C947215%252C948124%252C952302%252C952605%252C952901%252C953912%252C957103%252C957105%252C957201%26sparams%3Did%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Cmime%252Cmm%252Cms%252Cmv%252Csource%252Cupn%252Cexpire%26upn%3DrpekXOXakeg%26signature%3D35A458AB3C54AE5E44656A67E2D1A5F31F60862F.8A3675DFCD6460AE56BC4F020CBE66F5BA46D814%26ip%3D49.244.172.63%26mm%3D31%26mt%3D1416564252%26key%3Dyt5%26expire%3D1416585916%26ipbits%3D0%26sver%3D3%26mime%3Dvideo%252F3gpp", "pltype": "contentugc", "allow_embed": "1", "enablejsapi": 1, "cbrver": "38.0.2125.111", "c": "WEB", "idpj": "-1", "iurl": "http:\/\/i.ytimg.com\/vi\/MPSRRcZ1H-w\/hqdefault.jpg", "watermark": ",http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "oid": "Mc7mC3fa1bCCriDfwM4PRQ", "dashmpd": "http:\/\/manifest.googlevideo.com\/api\/manifest\/dash\/itag\/0\/ms\/au\/mv\/m\/playback_host\/r1---sn-ox25auxaxjvh-3uhe.googlevideo.com\/source\/youtube\/mt\/1416564252\/key\/yt5\/id\/o-AFaAB-jJB8cWmJhw3pTpLZiUvm1yXd8OobQcGAwqw2s0\/expire\/1416585916\/sparams\/as%2Cid%2Cip%2Cipbits%2Citag%2Cmm%2Cms%2Cmv%2Cplayback_host%2Csource%2Cexpire\/upn\/rpekXOXakeg\/ipbits\/0\/fexp\/3300016%2C3300016%2C3300106%2C3300106%2C3300133%2C3300133%2C3300137%2C3300137%2C3312197%2C3312197%2C3312478%2C3312478%2C907259%2C912328%2C927622%2C932404%2C938644%2C943909%2C946008%2C947209%2C947215%2C948124%2C952302%2C952605%2C952901%2C953912%2C957103%2C957105%2C957201\/sver\/3\/signature\/22C229322ABF91FCFDF1A68E4A4763BD52F62A0F.3797FC62A4B565F50A68782EC4FCB011BFD85DD6\/mm\/31\/ip\/49.244.172.63\/as\/fmp4_audio_clear%2Cwebm_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear%2Cwebm2_sd_hd_clear", "t": "1", "ptk": "MusicNepalPvtLtd%2Buser", "referrer": "https:\/\/www.google.com.np\/", "cbr": "Chrome", "ucid": "UC71oU7JQbMQWCIvPtjHnUIw", "hl": "en_US", "enablecsi": "1", "ldpj": "-14", "loudness": "-18.9300003052", "no_get_video_log": "1", "of": "6h4d9Jinq1IVHqjcXU2JHQ", "dash": "1", "title": "Dhading ,Nuwakot,Rasuwa,Simara's Most Famous Song-Khukuriko Dhar Promo (1).mp4", "host_language": "en", "allow_ratings": "1", "iurlmq": "http:\/\/i.ytimg.com\/vi\/MPSRRcZ1H-w\/mqdefault.jpg", "avg_rating": "5.0", "vq": "auto", "sourceid": "r", "sdetail": "p:www.google.com.np\/", "length_seconds": "99", "video_id": "MPSRRcZ1H-w", "csi_page_type": "watch,watch7_html5", "atc": "a=3\u0026b=PSk00qFqrS6sSkepbdzWJM1nDl4\u0026c=1416564316\u0026d=1\u0026e=MPSRRcZ1H-w\u0026c3a=25\u0026c1a=1\u0026hh=x08vGBWnHQC3dINZg3_j3WX5df4", "cos": "X11", "probe_url": "http:\/\/r18---sn-aigllnse.c.youtube.com\/videogoodput?id=o-ABvWldzxOf7d7pUsCEcVLpRXOw-a3U_aW8h7IK-zF-9_\u0026source=goodput\u0026range=0-99999\u0026expire=1416567915\u0026ip=49.244.172.63\u0026ms=pm\u0026nh=IgpwcjAyLmxocjE0KgkxMjcuMC4wLjE\u0026sparams=id,source,range,expire,ip,ms,nh\u0026signature=5EE0974FFA219FD9040ACFB1265FC426C83B1F36.0846EC109612A641722BC356058C4D68032605BF\u0026key=cms1", "eventid": "Ww5vVP-1K4iGogPOzoHYAg", "account_playback_token": "QUFFLUhqbWlkcVVrM3huTGMyWXc0dkl6V1FuYUV1NDlkUXxBQ3Jtc0treXE0cjhHS1RvQnlSS3hGRG9ROGswbUZ0eENldVQ4R2RrZEhTV3VEOV9zMTBQWGZ4d3VPd2RoOFZaR0FDZVB5Smx2NERBQWpqbFZIS2JaemtfRk10S2o2ZlRZejJhNnhsY1ItQWc3T2M1STllYTFuTQ==", "timestamp": "1416564316", "token": "1"}, "assets": {"js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflXs0FWW\/html5player.js", "css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-webp-vflo9SPmR.css", "html": "\/html5_player_template"}, "messages": {"player_fallback": ["Adobe Flash Player or an HTML5 supported browser is required for video playback.\u003cbr\u003e\u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player \u003c\/a\u003e\u003cbr\u003e\u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e"]}, "url_v8": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl_TnA9m\/cps.swf", "url_v9as2": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl_TnA9m\/cps.swf", "html5": true, "min_version": "8.0.0"};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};(function() {if (!!window.yt && yt.player && yt.player.Application) {ytplayer.load();}}());</script>
+
+
+      <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Watch Queue</h3><h3 class="tv-queue-title">TV Queue</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Watch Queue</span><span class="tv-queue-title">TV Queue</span></div></div>  <span class="dark-overflow-action-menu">
+    
+    
+    <button aria-expanded="false" aria-label="Actions for the queue" type="button" onclick=";return false;" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" aria-haspopup="true" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" role="menu" aria-haspopup="true" style="display: none;"><li role="menuitem"><span onclick=";return false;" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="remove-all" >Remove all</span></li><li role="menuitem"><span onclick=";return false;" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="disconnect" >Disconnect</span></li></ul></button>
+  </span>
+  <div class="watch-queue-controls">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Previous video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Play"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" type="button" onclick=";return false;" title="Pause"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Next video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+  </div>
+</div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><ol class="watch-queue-items-list playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watchqueue.loadThumbnails">  
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+</ol></div></div>  <div class="hid">
+    <div id="watch-queue-title-msg">
+Watch Queue
+    </div>
+
+    <div id="tv-queue-title-msg">
+TV Queue
+    </div>
+
+    <div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+
+    <div id="watch-queue-loading-template">
+      <!--
+          
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      -->
+    </div>
+  </div>
+</div></div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+<div id="content" class="  content-alignment  
+">  
+  
+  
+  
+    <div id="watch7-container" class="">
+    <div id="watch7-main-container">
+      <div id="watch7-main" class="clearfix">
+          <div id="watch7-preview" class="player-width player-height hid">
+          </div>
+        <div id="watch7-content" class="watch-content " itemscope itemid="" itemtype="http://schema.org/VideoObject"
+        >
+              <link itemprop="url" href="http://www.youtube.com/watch?v=MPSRRcZ1H-w">
+    <meta itemprop="name" content="Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+    <meta itemprop="description" content="Album Khukuriko Dhaar is Comming soon with video Lyrics ,Music,Dorection By Roshan Fyuba. Vocal By Roshan,Ramala Pakhrin,Jongba Kanchha Marketing And Distibu...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" content="UC71oU7JQbMQWCIvPtjHnUIw">
+      <meta itemprop="videoId" content="MPSRRcZ1H-w">
+
+      <meta itemprop="duration" content="PT1M39S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/TheSangul">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="http://i.ytimg.com/vi/MPSRRcZ1H-w/hqdefault.jpg">
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="http://i.ytimg.com/vi/MPSRRcZ1H-w/hqdefault.jpg">
+      <meta itemprop="width" content="480">
+      <meta itemprop="height" content="360">
+    </span>
+
+      <link itemprop="embedURL" href="https://www.youtube.com/embed/MPSRRcZ1H-w">
+      <meta itemprop="playerType" content="HTML5 Flash">
+      <meta itemprop="width" content="480">
+      <meta itemprop="height" content="360">
+
+      <meta itemprop="isFamilyFriendly" content="True">
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW">
+
+              <div id="watch-header" class="yt-card yt-card-has-padding">
+      
+  <div id="watch7-headline" class="clearfix">
+    <h1 id="watch-headline-title" class="yt">
+      
+
+
+  <span id="eow-title" class="watch-title long-title" dir="ltr" title="Dhading ,Nuwakot,Rasuwa,Simara&amp;#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4">
+    Dhading ,Nuwakot,Rasuwa,Simara&#39;s Most Famous Song-Khukuriko Dhar Promo (1).mp4
+  </span>
+
+    </h1>
+  </div>
+
+    <div id="watch7-user-header" class=" spf-link "><a href="" class="yt-user-photo yt-uix-sessionlink" data-sessionlink="itct=">  
+  <span class="video-thumb  yt-thumb yt-thumb-48"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img data-thumb="//s.ytimg.com/yts/img/avatar_720-vflYJnzBZ.png" alt="&lt;a href=&quot;/channel/UC71oU7JQbMQWCIvPtjHnUIw&quot; class=&quot; yt-uix-sessionlink     spf-link  g-hovercard&quot; data-sessionlink=&quot;ei=Ww5vVP-1K4iGogPOzoHYAg&quot; data-name=&quot;&quot; data-ytid=&quot;UC71oU7JQbMQWCIvPtjHnUIw&quot;&gt;TheSangul&lt;/a&gt;" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="48"  height="48" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</a><div class="yt-user-info"><a href="/channel/UC71oU7JQbMQWCIvPtjHnUIw" class=" yt-uix-sessionlink     spf-link  g-hovercard" data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg" data-name="" data-ytid="UC71oU7JQbMQWCIvPtjHnUIw">TheSangul</a></div><span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon no-icon-markup yt-can-buffer yt-uix-button yt-uix-button-size-default yt-uix-subscription-button yt-uix-button-has-icon yt-uix-button-subscribe-branded" type="button" onclick=";return false;" aria-live="polite" aria-busy="false" data-sessionlink="itct=" data-href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fchannel%252FUC71oU7JQbMQWCIvPtjHnUIw%26hl%3Den%26app%3Ddesktop%26continue_action%3DQUFFLUhqa1M5NUUwdG9DekxQcXQ2X1dQNmdyWnRTcVh3Z3xBQ3Jtc0tuZUV2UTBhaUhBZ1dLV1RZTEtGN21tOGtTRkFSUV96SEFvV05YRHJUaU5pYmc1TWJGaWlpODIwUlhfNVhadHE4Y0M1VU9SZ05HVTdzWjItNm5FV1JXQ2hXOVFkWkF3RGUyaTBibXBqQVdGelltVkc1MnZZR3hzSGFqWVRMVFN2Y3F0OXpjT2UyWTdsZjZwLWlqTDdUNnVyOHFRV2NfS2VIeTM0R2F3cjBBMktsYU9rYmlGTTB2bHpwNWFsTFJZU21LWXlCbmVRT2tFNFVRekhqWXV0REo5b1FDMkl3%26feature%3Dsubscribe%26action_handle_signin%3Dtrue&amp;passive=true&amp;hl=en" data-style-type="branded" data-channel-external-id="UC71oU7JQbMQWCIvPtjHnUIw"><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" aria-live="polite" aria-busy="false" aria-role="button" aria-label="Subscription preferences" data-channel-external-id="UC71oU7JQbMQWCIvPtjHnUIw"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal" title="19" tabindex="0">19</span>  
+  <div class="yt-uix-overlay " data-overlay-style="primary"data-overlay-shape="tiny">
+    
+        <div class="yt-dialog hid " role="dialog">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-header">
+                <h2 class="yt-dialog-title">
+                        Subscription preferences
+
+
+                </h2>
+            </div>
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div class="subscription-preferences-overlay-content-container">
+    <div class="subscription-preferences-overlay-loading ">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+    <div class="subscription-preferences-overlay-content">
+    </div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</span></span></div>
+    <div id="watch8-action-buttons" class="watch-action-buttons clearfix"><div id="watch8-secondary-actions" class="watch-secondary-actions yt-uix-button-group" data-button-toggle-group="optional">
+
+      <span class="yt-uix-clickcard">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-none-addto addto-button  yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="Add to" data-position="bottomleft" data-orientation="vertical" data-upsell="playlist" data-trigger-for="action-panel-none-addto" data-button-toggle="true"><span class="yt-uix-button-content">Add to </span></button>
+        <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Want to watch this again later?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to add this video to a playlist.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop%26action_handle_signin%3Dtrue&amp;passive=true&amp;hl=en" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+
+  </span>
+
+  <span >
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-share   yt-uix-tooltip" type="button" onclick=";return false;" title="Share" data-trigger-for="action-panel-share" data-button-toggle="true"><span class="yt-uix-button-content">Share </span></button>
+  </span>
+<div class="yt-uix-menu " ><div class="yt-uix-menu-trigger">
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" type="button" onclick=";return false;" title="More actions" aria-pressed="false" id="action-panel-overflow-button" role="button" aria-haspopup="true" data-button-toggle="true"><span class="yt-uix-button-content">More </span></button>
+</div><div class="yt-uix-menu-content yt-ui-menu-content yt-uix-menu-content-hidden" role="menu"><ul id="action-panel-overflow-menu">  <li>
+      <span class="yt-uix-clickcard" data-card-class=report-card>
+          <button type="button" class="yt-ui-menu-item has-icon action-panel-trigger report-button yt-uix-clickcard-target"
+ data-orientation="horizontal" data-position="topright">
+    <span class="yt-ui-menu-item-icon yt-uix-button-icon-action-panel-report yt-sprite"></span><span class="yt-ui-menu-item-label">Report</span>
+  </button>
+
+          <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Need to report the video?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to report inappropriate content.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop%26action_handle_signin%3Dtrue&amp;passive=true&amp;hl=en" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+
+      </span>
+  </li>
+</ul></div></div></div><div id="watch8-sentiment-actions"><div id="watch7-views-info"><div class="watch-view-count">8,356</div>
+  <div class="video-extras-sparkbars">
+    <div class="video-extras-sparkbar-likes" style="width: 100.0%"></div>
+    <div class="video-extras-sparkbar-dislikes" style="width: 0.0%"></div>
+  </div>
+</div>
+
+
+<span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional"><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" id="watch-like" data-like-tooltip="I like this" data-orientation="vertical" data-unlike-tooltip="Unlike" data-position="bottomright" data-force-position="true" data-button-toggle="true"><span class="yt-uix-button-content">8 </span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Like this video?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to make your opinion count.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop%26action_handle_signin%3Dtrue&amp;passive=true&amp;hl=en" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="I dislike this" id="watch-dislike" data-orientation="vertical" data-position="bottomright" data-force-position="true" data-button-toggle="true"><span class="yt-uix-button-content">0 </span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Don't like this video?</h3>
+    <div class="watch7-hovercard-message">
+      Sign in to make your opinion count.
+    </div>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop%26action_handle_signin%3Dtrue&amp;passive=true&amp;hl=en" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span></span></div></div>
+  </div>
+    
+  <div id="watch-action-panels" class="watch-action-panels yt-uix-button-panel hid yt-card yt-card-has-padding">
+      <div id="action-panel-share" class="action-panel-content hid">
+      <div id="watch-actions-share-loading">
+    <div class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="watch-actions-share-panel"></div>
+
+  </div>
+
+      <div id="action-panel-stats" class="action-panel-content hid">
+    <div class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+    
+  <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+      <div id="watch-actions-ratings-disabled">
+    <em>Ratings have been disabled for this video.</em>
+  </div>
+
+  </div>
+
+  <div id="action-panel-rental-required" class="action-panel-content hid">
+      <div id="watch-actions-rental-required">
+    <strong>Rating is available when the video has been rented.</strong>
+  </div>
+
+  </div>
+
+  <div id="action-panel-error" class="action-panel-content hid">
+    <div class="action-panel-error">
+      This feature is not available right now. Please try again later.
+    </div>
+  </div>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-button-opacity yt-uix-close" type="button" onclick=";return false;" id="action-panel-dismiss" data-close-parent-id="watch8-action-panels"></button>
+  </div>
+
+  <div id="action-panel-details" class="action-panel-content yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed"><div id="watch-description" class="yt-uix-button-panel"><div id="watch-description-content"><div id="watch-description-clip"><div id="watch-uploader-info"><strong class="watch-time-text">Uploaded on Jun 17, 2011</strong></div><div id="watch-description-text" class=""><p id="eow-description" >Album Khukuriko Dhaar is Comming soon with video Lyrics ,Music,Dorection By Roshan Fyuba. Vocal By Roshan,Ramala Pakhrin,Jongba Kanchha<br /><br />Marketing And Distibuting by Lhapsangkarpo Music Kathmandu-Nepal</p></div>  <div id="watch-description-extras" >
+    <ul class="watch-extras-section">
+          <li class="watch-meta-item yt-uix-expander-body">
+    <h4 class="title">
+      Category
+    </h4>
+    <ul class="content watch-info-tag-list">
+        <li><a href="/music" class=" yt-uix-sessionlink     spf-link " data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg">Music</a></li>
+    </ul>
+  </li>
+
+          <li class="watch-meta-item yt-uix-expander-body">
+    <h4 class="title">
+      License
+    </h4>
+    <ul class="content watch-info-tag-list">
+        <li>Standard YouTube License</li>
+    </ul>
+  </li>
+
+    </ul>
+  </div>
+</div></div></div>  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-collapsed-body yt-uix-gen204" type="button" onclick=";return false;" data-gen204="feature=watch-show-more-metadata"><span class="yt-uix-button-content">Show more </span></button>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-body" type="button" onclick=";return false;"><span class="yt-uix-button-content">Show less </span></button>
+</div>
+
+          <div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=MPSRRcZ1H-w" data-viewtype="FILTERED" style="display: none;"></div>
+
+  <div id="watch-discussion" class="yt-card branded-page-box">
+            
+  
+  
+  
+  <div class="comments-iframe-container">
+    <div id="comments-test-iframe"></div>
+    <div id="distiller-spinner" class="action-panel-loading">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+
+  </div>
+
+
+        </div>
+        <div id="watch7-sidebar" class="watch-sidebar">
+              
+    <div id="watch7-sidebar-playlist">
+      
+    </div>
+
+
+  <div id="watch7-sidebar-contents" class="watch-sidebar-gutter   yt-card yt-card-has-padding    yt-uix-expander yt-uix-expander-collapsed">
+    <div id="watch7-sidebar-offer">
+      
+    </div>
+
+      <div id="watch7-sidebar-ads">
+        
+      </div>
+
+    <div id="watch7-sidebar-modules">
+                
+  <div class="watch-sidebar-section">
+    <div class="watch-sidebar-body">
+      <ul id="watch-related" class="video-list">
+          <li class="video-list-item related-list-item">    <a href="/watch?v=PmbX0Y1VqCU" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAMQzRooAA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="PmbX0Y1VqCU"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/PmbX0Y1VqCU/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      5:11
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="PmbX0Y1VqCU">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="PmbX0Y1VqCU">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="PmbX0Y1VqCU" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="PmbX0Y1VqCU" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: hyolmo song, tibetan dress, tamang  and newar artist,buddhist and christian religion great unity">
+    hyolmo song, tibetan dress, tamang  and newar artist,buddhist and christian religion great unity
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UClvGIPUi5IK-FUpHEoQYCXg"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UClvGIPUi5IK-FUpHEoQYCXg">Dorje Dandul Sherpa</span>
+      </span>
+    </span>
+    <span class="stat view-count">15,315 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=br6VcWiDbEI" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=relmfu&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAQQzRooAQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="br6VcWiDbEI"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/br6VcWiDbEI/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      10:37
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="br6VcWiDbEI">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="br6VcWiDbEI">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="br6VcWiDbEI" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="br6VcWiDbEI" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: KHKURIKO DHA&amp;#39;R">
+    KHKURIKO DHA&#39;R
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC71oU7JQbMQWCIvPtjHnUIw"
+          data-name="relmfu"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UC71oU7JQbMQWCIvPtjHnUIw">TheSangul</span>
+      </span>
+    </span>
+    <span class="stat view-count">3,149 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=fsfjJF5Gco8" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAUQzRooAg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="fsfjJF5Gco8"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/fsfjJF5Gco8/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      8:56
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="fsfjJF5Gco8">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="fsfjJF5Gco8">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="fsfjJF5Gco8" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="fsfjJF5Gco8" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Roshan Fyuba Collection-Mhendomaya-Dhading,Nuwakot, Rasuwa&amp;#39;s Popular Song Patola Mhendo---">
+    Roshan Fyuba Collection-Mhendomaya-Dhading,Nuwakot, Rasuwa&#39;s Popular Song Patola Mhendo---
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCmR_LSOD89oTQuYsZf4cPuw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCmR_LSOD89oTQuYsZf4cPuw">lhapsang Karpo</span>
+      </span>
+    </span>
+    <span class="stat view-count">6,303 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=hOKZZgu-2G8" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAYQzRooAw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="hOKZZgu-2G8"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi_webp/hOKZZgu-2G8/default.webp" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      36:55
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="hOKZZgu-2G8">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="hOKZZgu-2G8">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="hOKZZgu-2G8" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="hOKZZgu-2G8" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Clips of the Meditation Camp at Osho Venuban, Dhading, Nepal">
+    Clips of the Meditation Camp at Osho Venuban, Dhading, Nepal
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCCqZN0ZVxUz-OUwArNNInxQ"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCCqZN0ZVxUz-OUwArNNInxQ">tapobannepal</span>
+      </span>
+    </span>
+    <span class="stat view-count">11,226 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=Bp-BLZsnZCI" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAcQzRooBA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Bp-BLZsnZCI"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/Bp-BLZsnZCI/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      4:10
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Bp-BLZsnZCI">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Bp-BLZsnZCI">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="Bp-BLZsnZCI" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="Bp-BLZsnZCI" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Mhendorilo LM Music  Roshan fyuba">
+    Mhendorilo LM Music  Roshan fyuba
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCmR_LSOD89oTQuYsZf4cPuw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCmR_LSOD89oTQuYsZf4cPuw">lhapsang Karpo</span>
+      </span>
+    </span>
+    <span class="stat view-count">6,462 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=hPoCGFMdaOk" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAgQzRooBQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="hPoCGFMdaOk"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/hPoCGFMdaOk/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      10:48
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="hPoCGFMdaOk">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="hPoCGFMdaOk">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="hPoCGFMdaOk" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="hPoCGFMdaOk" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Dhading Nuwakot Samaj Bhetghat UK 2011">
+    Dhading Nuwakot Samaj Bhetghat UK 2011
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCW61vJCQQh7bmvRxJmBvfYA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCW61vJCQQh7bmvRxJmBvfYA">Milan Tamu</span>
+      </span>
+    </span>
+    <span class="stat view-count">4,927 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=B3DA-LaIEJ4" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAkQzRooBg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="B3DA-LaIEJ4"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/B3DA-LaIEJ4/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      7:34
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="B3DA-LaIEJ4">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="B3DA-LaIEJ4">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="B3DA-LaIEJ4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="B3DA-LaIEJ4" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Mhendomaya Concert Dhading--- Roshan Fyuba Tamang">
+    Mhendomaya Concert Dhading--- Roshan Fyuba Tamang
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCmR_LSOD89oTQuYsZf4cPuw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCmR_LSOD89oTQuYsZf4cPuw">lhapsang Karpo</span>
+      </span>
+    </span>
+    <span class="stat view-count">6,601 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=maMhHRPTugw" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAoQzRooBw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="maMhHRPTugw"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi_webp/maMhHRPTugw/default.webp" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      13:05
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="maMhHRPTugw">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="maMhHRPTugw">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="maMhHRPTugw" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="maMhHRPTugw" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Rasuwa Tamang Heritage Trail">
+    Rasuwa Tamang Heritage Trail
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC8tVvXALWYCAmgGahKV5UTw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UC8tVvXALWYCAmgGahKV5UTw">Sujit Maharjan</span>
+      </span>
+    </span>
+    <span class="stat view-count">34,975 views</span>
+</a>
+</li><li class="video-list-item related-list-item"><a href="/watch?v=O_7ddqf3CIA&amp;list=PLE60DC4D7A4C5CCC2" class="related-playlist yt-pl-thumb-link  spf-link  yt-uix-sessionlink" data-sessionlink="feature=rellist&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAsQzhooCA" rel="spf-prefetch">  
+
+  <span class="yt-pl-thumb  is-small">
+      
+    
+  <span class="video-thumb  yt-thumb yt-thumb-120"
+    >
+    <span class="yt-thumb-default">
+      <span class="yt-thumb-clip">
+        <img aria-hidden="true" data-thumb="//i.ytimg.com/vi/O_7ddqf3CIA/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"  >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+
+
+
+      <span class="sidebar">
+        <span class="yt-pl-sidebar-content yt-valign">
+          <span class="yt-valign-container">
+              <span class="formatted-video-count-label">
+      <b>27</b> videos
+  </span>
+
+            <span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span>
+          </span>
+        </span>
+      </span>
+
+      <span class="yt-pl-thumb-overlay">
+        <span class="yt-pl-thumb-overlay-content">
+          <span class="play-icon yt-sprite"></span>
+          <span class="yt-pl-thumb-overlay-text">
+Play all
+          </span>
+        </span>
+      </span>
+
+        <span class="yt-pl-watch-queue-overlay">
+      <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="O_7ddqf3CIA" data-list-id="PLE60DC4D7A4C5CCC2">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="O_7ddqf3CIA" data-style="tv-queue" data-list-id="PLE60DC4D7A4C5CCC2"></button>
+
+  </span>
+
+  </span>
+<span dir="ltr" class="title" title="tamang">tamang</span><span class="stat attribution">by <span class=" g-hovercard" data-name="" data-ytid="UCQfc7fyk6a0vAa9bo-GPiLA">pagalktas</span></span><span class="stat view-count"></span></a></li><li class="video-list-item related-list-item">    <a href="/watch?v=0IGiKh3w9-4" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CAwQzRooCQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="0IGiKh3w9-4"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/0IGiKh3w9-4/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      9:54
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="0IGiKh3w9-4">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="0IGiKh3w9-4">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="0IGiKh3w9-4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="0IGiKh3w9-4" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Dhading Tamang song (Ram Gomja,Bikram,sumi,kumari&amp;amp;Mira lama Tamang,Ramala Pakhrin.">
+    Dhading Tamang song (Ram Gomja,Bikram,sumi,kumari&amp;Mira lama Tamang,Ramala Pakhrin.
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCB_xfJI1efzY03NXyf6ICjg"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCB_xfJI1efzY03NXyf6ICjg">Bam Blenthen</span>
+      </span>
+    </span>
+    <span class="stat view-count">43,067 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=wsrxg3jRoO0" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CA0QzRooCg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="wsrxg3jRoO0"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/wsrxg3jRoO0/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      8:22
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="wsrxg3jRoO0">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="wsrxg3jRoO0">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="wsrxg3jRoO0" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="wsrxg3jRoO0" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Tamang Songs from Nuwakot album &amp;quot;Saptang Syong&amp;quot;02">
+    Tamang Songs from Nuwakot album &quot;Saptang Syong&quot;02
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCaml21dM22cGtsNBIzMlzoA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCaml21dM22cGtsNBIzMlzoA">tamanglotus</span>
+      </span>
+    </span>
+    <span class="stat view-count">44,107 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=e4Qf0nmJgPw" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=relmfu&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CA4QzRooCw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="e4Qf0nmJgPw"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/e4Qf0nmJgPw/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      6:36
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="e4Qf0nmJgPw">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="e4Qf0nmJgPw">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="e4Qf0nmJgPw" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="e4Qf0nmJgPw" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Singlha Mhane">
+    Singlha Mhane
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC71oU7JQbMQWCIvPtjHnUIw"
+          data-name="relmfu"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UC71oU7JQbMQWCIvPtjHnUIw">TheSangul</span>
+      </span>
+    </span>
+    <span class="stat view-count">2,390 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=M3S9Rdfo-eM" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CA8QzRooDA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="M3S9Rdfo-eM"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/M3S9Rdfo-eM/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      3:58
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="M3S9Rdfo-eM">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="M3S9Rdfo-eM">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="M3S9Rdfo-eM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="M3S9Rdfo-eM" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Prashant Tamang the Nepali hero">
+    Prashant Tamang the Nepali hero
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCb7WohiIrnPnp6ZowWdPtDw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCb7WohiIrnPnp6ZowWdPtDw">caravan7777</span>
+      </span>
+    </span>
+    <span class="stat view-count">626,445 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=GxKLCpDfago" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBAQzRooDQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="GxKLCpDfago"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/GxKLCpDfago/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      9:06
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="GxKLCpDfago">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="GxKLCpDfago">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="GxKLCpDfago" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="GxKLCpDfago" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: AROUND GUMDI DHADING">
+    AROUND GUMDI DHADING
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCx3QXXqkxVXGNIqCrBFC-5w"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCx3QXXqkxVXGNIqCrBFC-5w">s gurung</span>
+      </span>
+    </span>
+    <span class="stat view-count">4,762 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=uFoTA54zfDA" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBEQzRooDg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="uFoTA54zfDA"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/uFoTA54zfDA/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      4:40
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="uFoTA54zfDA">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="uFoTA54zfDA">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="uFoTA54zfDA" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="uFoTA54zfDA" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Dhading ,Nuwakot and Rasuwa must popular tamang song( Roshan Fyuba)">
+    Dhading ,Nuwakot and Rasuwa must popular tamang song( Roshan Fyuba)
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCQ8RQHS_tHioPE36xLuO9Tg"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCQ8RQHS_tHioPE36xLuO9Tg">Bijayess</span>
+      </span>
+    </span>
+    <span class="stat view-count">43,177 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=ShoHbDdFhq4" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBIQzRooDw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="ShoHbDdFhq4"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi_webp/ShoHbDdFhq4/default.webp" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      0:46
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="ShoHbDdFhq4">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="ShoHbDdFhq4">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="ShoHbDdFhq4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="ShoHbDdFhq4" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: New Nepali Mhendomaya Song By Roshan Fyuba Tamang">
+    New Nepali Mhendomaya Song By Roshan Fyuba Tamang
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCmR_LSOD89oTQuYsZf4cPuw"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCmR_LSOD89oTQuYsZf4cPuw">lhapsang Karpo</span>
+      </span>
+    </span>
+    <span class="stat view-count">12,600 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=4LigBOegDF4" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBMQzRooEA"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="4LigBOegDF4"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/4LigBOegDF4/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      16:34
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="4LigBOegDF4">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="4LigBOegDF4">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="4LigBOegDF4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="4LigBOegDF4" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Hyolmo Langtang Rasuwa ( Langshesa Jatra)">
+    Hyolmo Langtang Rasuwa ( Langshesa Jatra)
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCo5LMGmEnfypNxDUmaf8JYA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCo5LMGmEnfypNxDUmaf8JYA">Hamro Hyolmo</span>
+      </span>
+    </span>
+    <span class="stat view-count">8,983 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=1SzcrGciDVs" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBQQzRooEQ"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="1SzcrGciDVs"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/1SzcrGciDVs/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      14:55
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="1SzcrGciDVs">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="1SzcrGciDVs">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="1SzcrGciDVs" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="1SzcrGciDVs" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Nepali Songs   zog pun magar arghakhanchi nuwakot barbas 1one">
+    Nepali Songs   zog pun magar arghakhanchi nuwakot barbas 1one
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC7OpQr9obGD-D9a7n3ep5lA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UC7OpQr9obGD-D9a7n3ep5lA">MrZog12345</span>
+      </span>
+    </span>
+    <span class="stat view-count">23,285 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=fctSxZZ78dM" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBUQzRooEg"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="fctSxZZ78dM"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/fctSxZZ78dM/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      7:40
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="fctSxZZ78dM">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="fctSxZZ78dM">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="fctSxZZ78dM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="fctSxZZ78dM" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: Rasuwa lungbaagi  temril LU">
+    Rasuwa lungbaagi  temril LU
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCD1tkLAk8dYRctr1qIhRnCA"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCD1tkLAk8dYRctr1qIhRnCA">tashi norbu</span>
+      </span>
+    </span>
+    <span class="stat view-count">12,161 views</span>
+</a>
+</li><li class="video-list-item related-list-item">    <a href="/watch?v=R83fseFmezk" class=" related-video spf-link  yt-uix-sessionlink" rel="spf-prefetch" data-sessionlink="feature=related&amp;ei=Ww5vVP-1K4iGogPOzoHYAg&amp;ved=CBYQzRooEw"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="R83fseFmezk"><img aria-hidden="true" data-thumb="//i.ytimg.com/vi/R83fseFmezk/default.jpg" alt="" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90" >    <span class="video-time">
+      8:50
+    </span>
+        <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button onclick=";return false;" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" ><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-dark-overflow-action-menu yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;">    <li role="menuitem">
+      <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="R83fseFmezk">
+        <span class="yt-uix-button-icon-wrapper">
+          <span class="addto-watch-queue-play-next-icon yt-valign-container yt-sprite"></span>
+        </span>
+Play next
+      </span>
+    </li>
+  <li role="menuitem">
+    <span class="overflow-menu-choice addto-watch-queue-menu-choice yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="R83fseFmezk">
+      <span class="yt-uix-button-icon-wrapper">
+        <span class="addto-watch-queue-play-now-icon yt-valign-container yt-sprite"></span>
+      </span>
+Play now
+    </span>
+  </li>
+</ul></button>
+  </span>
+
+      
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" role="button" data-video-ids="R83fseFmezk" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV Queue" data-video-ids="R83fseFmezk" data-style="tv-queue"></button>
+
+</span>  <span dir="ltr" class="title" aria-label="Watch video: A Visit to Dang, Pyuthan &amp;amp; Rolpa of Nepal by Bhim Upadhyaya.flv">
+    A Visit to Dang, Pyuthan &amp; Rolpa of Nepal by Bhim Upadhyaya.flv
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCvm1L8DZL_AJcK2uZBnCf4Q"
+          data-name="related"
+        >
+        by <span class=" g-hovercard" data-name="" data-ytid="UCvm1L8DZL_AJcK2uZBnCf4Q">Bhim Upadhyaya</span>
+      </span>
+    </span>
+    <span class="stat view-count">38,538 views</span>
+</a>
+</li>
+              <div id="watch-more-related" class="hid">
+    <li id="watch-more-related-loading">
+Loading more suggestions...
+    </li>
+  </div>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander" type="button" onclick=";return false;" id="watch-more-related-button" data-button-action="yt.www.watch.related.loadMore" data-continuation="CBQSDRILTVBTUlJjWjFILXcYAA%3D%3D"><span class="yt-uix-button-content">Show more </span></button>
+
+      </ul>
+    </div>   </div> 
+
+    </div>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="watch7-hidden-extras">
+        <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+      <img src="//www.youtube-nocookie.com/gen_204?attributionpartner=MusicNepalPvtLtd%2Buser" border="0" width="1" height="1">
+  </div>
+
+    </div>
+  </div>
+
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" title="YouTube home"><span class="footer-logo-icon yt-sprite"></span></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-position="footer" data-picker-key="language" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-position="footer" data-picker-key="country" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Country:
+  </span>
+  Worldwide
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-position="footer" data-picker-key="safetymode" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Safety:
+  </span>
+Off
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+  </ul>
+<a href="/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=Ww5vVP-1K4iGogPOzoHYAg"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">History </span></a>      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" id="google-help" data-ghelp-tracking-param="" data-ghelp-anchor="google-help"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Help
+ </span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/">About</a></li>
+  <li><a href="//www.youtube.com/yt/press/">Press &amp; Blogs</a></li>
+  <li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li>
+  <li><a href="//www.youtube.com/yt/creators/">Creators &amp; Partners</a></li>
+  <li><a href="//www.youtube.com/yt/advertise/">Advertising</a></li>
+  <li><a href="//www.youtube.com/yt/dev/">Developers</a></li>
+  <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Terms</a></li>
+  <li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+  <li><a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">Send feedback</a></li>
+  <li><a href="/testtube">Try something new!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " role="dialog" id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        
+  <p class="yt-spinner ">
+      
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3Dplaylist%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true&hl=en" class="sign-in-link">Sign in</a> to add this to Watch Later
+
+    </div>
+  <div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">
+      <div class="hide-on-create-pl-panel">
+    <h3>
+Add to
+    </h3>
+  </div>
+  <div class="add-to-widget">
+  </div>
+
+  </div>
+</div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 20;ytspf.config['navigate-lifetime'] = 64800000;</script>
+  <script src="//s.ytimg.com/yts/jsbin/spf-vflgC9YGH/spf.js" type="text/javascript" name="spf/spf"></script>
+  <script src="//s.ytimg.com/yts/jsbin/www-en_US-vflEV5WrK/base.js" name="www/base"></script>
+<script>spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflEV5WrK/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/instant": "www/common", "www/innertube": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_gangnam_overflow": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/watch_autoplayrenderer": "www/watch", "www/vm_coverrevshare": "www/videomanager", "www/my_videos": "www/videomanager", "www/innertube_watchnext": "www/innertube", "www/ct_advancedsearch": "www/videomanager", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);</script><script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>      <script>
+    yt.setConfig({
+      'VIDEO_ID': "MPSRRcZ1H-w",
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+      'DROPDOWN_ARROW_URL': "http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif",
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+          'www/watch_gangnam_overflow',
+        ''       ],
+
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflR4HP0X\/www-reportvideo.js",
+      'REPORTVIDEO_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-webp-vflq0YKW3.css",
+
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflW9qXq6\/www-watch-missilecommand.js",
+      'WATCH_MISSILECOMMAND_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-webp-vfl9eaIzr.css",
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "title=hyolmo+song%2C+tibetan+dress%2C+tamang++and+newar+artist%2Cbuddhist+and+christian+religion+great+unity\u0026author=Dorje+Dandul+Sherpa\u0026id=PmbX0Y1VqCU\u0026length_seconds=311\u0026session_data=feature%3Dendscreen,title=KHKURIKO+DHA%27R\u0026author=TheSangul\u0026id=br6VcWiDbEI\u0026length_seconds=637\u0026session_data=feature%3Dendscreen,title=Roshan+Fyuba+Collection-Mhendomaya-Dhading%2CNuwakot%2C+Rasuwa%27s+Popular+Song+Patola+Mhendo---\u0026author=lhapsang+Karpo\u0026id=fsfjJF5Gco8\u0026length_seconds=536\u0026session_data=feature%3Dendscreen,author=tapobannepal\u0026id=hOKZZgu-2G8\u0026length_seconds=2215\u0026session_data=feature%3Dendscreen\u0026iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FhOKZZgu-2G8%2Fmqdefault.webp\u0026title=Clips+of+the+Meditation+Camp+at+Osho+Venuban%2C+Dhading%2C+Nepal\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FhOKZZgu-2G8%2Fhqdefault.webp,title=Mhendorilo+LM+Music++Roshan+fyuba\u0026author=lhapsang+Karpo\u0026id=Bp-BLZsnZCI\u0026length_seconds=250\u0026session_data=feature%3Dendscreen,title=Dhading+Nuwakot+Samaj+Bhetghat+UK+2011\u0026author=Milan+Tamu\u0026id=hPoCGFMdaOk\u0026length_seconds=648\u0026session_data=feature%3Dendscreen,title=Mhendomaya+Concert+Dhading---+Roshan+Fyuba+Tamang\u0026author=lhapsang+Karpo\u0026id=B3DA-LaIEJ4\u0026length_seconds=454\u0026session_data=feature%3Dendscreen,author=Sujit+Maharjan\u0026id=maMhHRPTugw\u0026length_seconds=785\u0026session_data=feature%3Dendscreen\u0026iurlmq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FmaMhHRPTugw%2Fmqdefault.webp\u0026title=Rasuwa+Tamang+Heritage+Trail\u0026iurlhq_webp=%2F%2Fi.ytimg.com%2Fvi_webp%2FmaMhHRPTugw%2Fhqdefault.webp,playlist_title=tamang\u0026video_id=O_7ddqf3CIA\u0026thumbnail_ids=O_7ddqf3CIA\u0026playlist_length=27\u0026session_data=feature%3Dendscreen\u0026list=PLE60DC4D7A4C5CCC2,title=Dhading+Tamang+song+%28Ram+Gomja%2CBikram%2Csumi%2Ckumari%26Mira+lama+Tamang%2CRamala+Pakhrin.\u0026author=Bam+Blenthen\u0026id=0IGiKh3w9-4\u0026length_seconds=594\u0026session_data=feature%3Dendscreen,title=Tamang+Songs+from+Nuwakot+album+%22Saptang+Syong%2202\u0026author=tamanglotus\u0026id=wsrxg3jRoO0\u0026length_seconds=502\u0026session_data=feature%3Dendscreen,title=Singlha+Mhane\u0026author=TheSangul\u0026id=e4Qf0nmJgPw\u0026length_seconds=396\u0026session_data=feature%3Dendscreen"},
+
+
+
+          'BG_P': "xD\/no5pk0ZqF2RqHy8WrK2HR2n52K4a2nxiJxcaOtWBs7xYhSjRv5g2SPr1lZFe02q8nyA5krlErwLI+IoRqH74nW1R+4y\/JoWmzjdkJe9hn9aMqC+EOu32NXT2LGUezFKGi92bEUbvQ2TcS17GesFi2IoHKVFGvv3z\/Kf3bzNwX3uPRjYZjab9pj41dhXo7s16PdHc1+jVmhn6x8HzkF+ofVGqUD3pkwUJVgKKBuH9B\/K4tfYlCd\/+PrSK1nxW1p3XWR0KluZ9NOgbXlCRWLXnI8zaqtb0jxjjklFF0Os8bdI5mpiC7ptCYGdY3Ba4Y\/m\/MwP2REzawzZqnr2CcjuYCixu1+W3XjoeQioVgMWqQFHFraZTaGSAA+OMvLhOI8efqEUw5LKZpMI2EoSX\/x6ULOWokvtWgd6vHZVhjOOHuAhPH89P+YorT5yD+OLfaQ+rSaUjCSCO5J9oP55fchVnqocxIxq6Fqc1UdboQE1dcvofiTMlvfqQWU0eWEjtcO\/PsAM2a\/14jJ8WfePqWycWXszXi63QKnVHOoUBIwzCfTyO3pJqlV4ZI+8JD8hTsDfaWSUrG7842QwMMlU\/\/9unmiBKvUAuCWpO9GEkK7qVxOQXTMOuzeYSb\/BsimqrRvFU\/Mluj+J4zC3rwBKoSehmzS6cr+hbs+P0apYjlKf914EyPQEsvX7mvjFqLkAt6XMdx6+qFuFVkgqsG7x5TcWO9mpK2dvVdwLjS5GzpKXlhXBI23rSG7N734P3QApVx0dLQzBR8Momk4zk0WWCxRoFnO9TMF3XhfW5bn5cwwMAbRbmdY3Zd\/CRdy3kgER3IdYbe9moUFou2DdBQrLFby\/ARIVaJMBl2fQHIPamMIZRaQ5tSzmkmnUIybiIAidAwyCctXV4aI2IiCFmxjLq8wJyAvFOYpA0nqt6kJT5Wojge4RilbaffYEQjxDVNZHVlspxWZwpmX\/mxxV12i8yyZ9gLgEp\/WFIvKy1rKOwoWYYQZBK4nl7Ry0Kb3ARUsRPC45Oh2lGJs9dcFoslDfYP4muz3lp55Qn0fZig61s5ZODGGcUciv5X5UJwojiV\/DED9tiSst2oxPuiqbFacFQSHJosZX5uEgxi9xhMGswl21RoEGNw1h5ujrEJT\/ydnXBzKLc54hNvnTLQXE88UP3P2qZuzE8sPu7RRPpzIEn68jPbkDtjoW8Qs3ldsJopDg8iII1ies883V4z2tkse7xMWZBss00rM7vHFsyDa42TfVYeMdZ7vqzMnFUQcqzHduD0HZUzjKtV+V8l1PyRu+DmgeLkynBBkBFy7+ZIkxS5U5zjj894GGfIFmT5E5J6rAZf+nvOSHUwNjo7NogrA5jII0yHjtVOnYJTKN3ajZ7pkPCuLqAD3529R1VRItgiS5R1Ol8xbXf\/GZd7uVBWRW7wQthZ9JCYHcpysbEs0fcJQItfTatooNei44jlIwBIN2yTg2qmHgpwBRRlVFhvoUAgPEttgV4OkPokGyUuE2LgyCBJy0gs9b\/+q3Rx7a9ZZqTuh+5PNQLChiM6EeF1UvRSDsABRQ5KoYNkB2xW1hzPXn84hyYDM\/aiDT\/Pp2LC3sRYQT4jHPvebgjTLThjB9jtGL5L\/6hGpF+qMYHVZ7lXwoBJ31IY7WwsqE7HuSKSnav0Wkraf3d5bIRICjHsA1CDTgHpOWvRuFxbDKh6FCw5o3i2bTUsFgr9URCKXnEA3MlHhbLtX8KoAczdq+UVJptEuaHb30nJ3+c82RCo0k2hMM7AmiH6yQp0J79bHL\/uqCErxWUmtf2GruhalUkrWEjk9KUoLE0MhbFeguEy7lxdo4ziQN64MBnwX+rZV7Cs+au+cTkQejRMNTZoWY5c5kbpXiLyOsjVzVPkeIqzQO6GXgu9vxY6\/SQomicfiwSYryQ\/Hs6frgDVXafUiClVJZdnac4ZpqbL3LFk9BXZZSgVLBftiZRaZMEoWO6DhjyBR+UTIM10kxlualktUAzOaNkUrpVcb3SjTqK4uMQC5yOEVW+v6YUen6tXB1ncfDUHot6dV5VznnvN8f49FBqF2XczufLb6Z5oT4cbO8ZqxdXwu+ewSxlTOXktq1CP0FpzyKYEdO2DXFRDlbjTyjGnKv1NcOfznPmASK+V53NSy0j+qbxqAKk0c1EKy85VW11god3USXUnKrEiFnXKYWOdUSd4TG+v8fr3BeX4wmuD\/4OqzwvHNzsrv\/npq6tuy21z7tc9sGhpD+biZLNKufnzB3jw1l5JmooG2fTPrxo6Zzk0s1vaMcCDw7ah3+C4JGPNqlR\/mTDrkTkZVTp\/Kn7kdOBZGQTEZnG\/8k0g1UoO3x\/cL\/S2T4oDrWRqZxq04Z62ov0ojItvJY4NopY9A8z4U0T1u3eJYPNLvA\/D7T4etHnwjGmwdHYlfL7cC4zyHCy9Z8PupaYBfX1VZHIV40pXO7J4GPbY4jCl9B1j0a9GtPuhRnY+N1xC+WhCxiQcPr6Rnrv1vvP8Wtri8vsxkfjtHBzp5Fefvq\/ATfKw1DoPFYmKlcQEaRSgZf9Espi5wUitRov1DaEhFb7lqd0jl3J5VOVbUn1BJi+KCfq7B1rJbxnavKkrnFiR0t9hYhJfVtQeHaIgu8gRH99rXN7i84Dbd654lKYQMSRuu\/7fVaEEWfJsV7BlFo6MlEmLZ4TvGGP8EE5zBfO0+sfiAuMXw8wEJb7qS48m5RZLLsxqJMddMDw3NEdbdWg2HZrUrQkXowvIxcBhEflNZc6xd1qeCT8L+MP7jpaaaNfHyJxxXtEkjR74diGLKLfeKR79eBfRCChchLFOwKwtQJByFJnY8I4h\/TyoReCWLniib5gxCj3K4MBqwRwZw4E4i0H9psQeB7yI+3fql\/M1sFuSnuqnRFIPTNMsZuOGd18N+0Pxgxk9WFI4gVYlX8QJpos1wJtoeriaY6phX3QxBBIjcUBDdTzKI8WiwXFSkQd8RYQcyF9A1eMHyEV2\/0QDzEqZ0y0bC9wiRxcam6pxxfvUkwwYTGKnY4VqR30RE9LmMXfKvL3wzt91g\/IZh9ecNBU9Jp7yhftq76KYESVDCYNs4mHke+Warf09GoibGiqY9GCGYE4bBTwLv0Uj6TDN37ZeokOIWDk84HYs0SATFNa0uyKyB4DwwJXDn5w3VdqY5kl52z6q\/FSCtqduqt20ldiJVgLH\/hTaHd\/+n7M1CR\/JCyC+3LMorJXU080MjeKF2iqwG\/2o\/AoOpWgNioLEBxKOc1eTEh5LGuhitK4ZRGm+hRFqomJqZr3WvxFqdlXMwlEnoVb7weRXWCr207oVhxJ76QbVCOYXF275ridTtjxWLHSpwMJOJ3DLyS1TipwzYMIayH+9xhFWcMZ3d0yXE8Vw4UWf3H8SLIwoRWikTG5yjT8C0UY1PfZD\/1LG444rbhlNI1\/TPWBiR+NrKa7dd1Elmnt2N\/BXh2pj7AQptWzYbNspP09WPxfx\/\/r6slVQI3XAXFt6yOrKYHPeFHIycrygoJRam3p7CR5VK3ADjQGw7tfUGBfeoh3VujBt3+EJ57nOpzgnt8SDflY6xn8TIvLPyxmJUnOt2rA05YVg7zoAlBpcsxVaphtGTwX2o9c68yXlbH6rocwrsGbrgGycvpCAk4Gm7V2kgmIEIjay1Gi7w7YM8AEpfvs5AeCdXgZ0KhHifN+pcD6OUeB4aaFylMH05kDS3Rv08spSKmQiqX3rRFL6K8DmTv7uDewuxsESOMdW8wB78qpwOQSzG5Q2IG5f2HRRj3EOM9Kzqk1EkxfdyPip0VWBxDLQMfIP1GXhUIcuZzOW86VNECVhWOSB9Hxn0b4XF6J7OCnQ+2FdwsEyj653Rc1A8nEw8N10NlbdTOICtaCteV0Kn41esgVpSQiEpGLPBTQaNgGOyLrnmUmFRCCB30hxtYA3hkEf2imvg3d9svTBIPGmupT0l8uEDVS+7j3a6KGmw\/sYzQbMgZMIeVWNCNEzpJZumoy8OSZK1mGb9gD3gGwJIFc2VyLXDavk3XJfF7vr\/QxJom+06IPCWaf8l\/G2J9RZTAWmJ9RIMvxPsclckQxmsbAjyrxT6E0TSrAHP2KTnaFxLr0Vs9+\/oOwsXn0hm3xK3VKpLbQL8z6wRAlOTZqei5vUNWNi2AkhbEWtdaeM2VNWEemPzvPkjRTxOwCCOuSfC5mlKDJgk0FUL6tFNaEDSRyA8qi9YCS3Huu0q1PJAZF12DVinuuZOwz\/WCtFJyTLZ2g9q7nI7JC41gHz+fKOUZNcnfbVLgrc804oeql\/+lXZsILca8Hyle87o9tMz\/swkQ8eIkn9wnzbl3Txn\/pwFi4TjG2oxuQGMoMkSZM7BCs62BnPNAbRud8XC5DMCVvxJ0IkczdYWUvvleU7sMko2\/P+ieWrQNgIVZbotE5bCo1fl+srv7dRRiiNHf5XMXqH2RLyzucawgIAD+YvWi64DOgO0wTnL6LzZzbhrpSc9vbS6iDVCKms0AjkwdITVsK\/UzDnDvWy7zbBqhBYdedkZ5a5O1Fdf68aR6G0qRasv76ceyWRYwwnFtYQJAsyvHGak2mrOZ1OSlzRTDpSLaojJsdVWDiKPifzWk6Ebb6361qAamUI3hgAnXqfQd\/vuoHDDJ9A93WQayTQl2qb7TryEkLh+\/U9mGznLHnagYf57lzA+yNO9MHFIIuMKwyRZSEG85QFxcUWPTUf4\/+jqBWH5dMYMfBlwL1MkaDpOiYRccJWpd3U\/3FrGiF0Yp8OIFZ56njewbGGSuJFHIcccOJnZhZh0sUUa1L6cMCb8Opo+6jk\/ZAnBNJoelecvmm+axO9zUqP37hk2rSDj4tohQSI0+XINBq7F8SQOxi8gYVHk9Ucc9kVoqdCLC9LwPtBee6QiU\/xyuIptx3E3v7HSxMLd3aapqNgFQrDKVcZFA0Lk8hxXGWcNtEgACtJW1oZM\/gnj7Pnj\/aNTvsU6hGXS8GMfyYXfQjgc\/bYCVGAgIGdh2NpKmVulkQA8H6jfNfAn9b2ya3GZprZ235OpZAOZCLjO6Jl1jMswH44ZdCSams8Qw+d3m69ktpHDuapnx6o1sN4wKI7mbmKqFByLauUCZr6FMiwStIM645YVmIYQlzN8CbTyjcrvaEn3Dsb5Tk+npmrip\/ZoQ8qLRV\/xJAquKiRSRhdDr6H85SiFiUr0hj8QWjKcj4h55aZGf83cA3wwFpzCR08zUpQUJkXW\/sEk05c0xv\/t33AKKLzjGEieeDnDzRmNYZV5bTQN9AQYwmOtg+S8DrlpzniSk2ghh6RtKxCe4ZOz1Yue8HKemf8kWnfW3ZDg8UTo67gAtUIfRagSa+TWIPeg+osNm3Vmf\/Q9YqIvgmIcUwvNGmjsS4uGNfQWs1EXG+DryqHaqc9w52eyaXBwciGGVYc7zGk1Z4ZO3139nNEJv6yydS2jXmt\/hRsSC4kZxSc\/zQ0bhjaNhtzUmK1YtTEgZ61udmVydgmfyKIuuxPvLdDuQBUX0TdvCsaTxkdCf7lfbrslCcgkrl2BWUxfMrYzod9HMK5ip+qw\/WpRe+8Z92HkPLw3A6AktQqyZuS1I5lN452JpCsk2HkBBahJmQeUyIxXrn4OPCZsx+TV9YY9UaHS16jKKRbDedbeitK5r7cdn7a62XmG3Pdo5Umfo45ghUwN4cJ1FjDo9iiVq3Ipe9xa\/8qXvmojpxQfE\/vJR2RVOoHeTZDYcKeVKJd1ozlugJtDCXZX2OWPrZl5Ou7SGHN8\/zuSMTIJc\/VDImUtvxsHLI4CB2lJH8n+Kv6PH0eQEoovvy2vQ3e7GdtckJX96u+qV+FYAT8rs40oCTw506p+ocELAbKJobX8hJAKKqoZzWHI5pWLbW1WaSMUIKrx2MRFryNDCd4hAL2GFLjWiHClV8czCiHvv3YmXPpRXS1B\/H4ee1lAqhsDSuSvCmWnIWCCI3hmV6FgvAXYDZ5tz26A7A5nugcOfvtRgyeGuT4qzFa3lN0BydmsHdrtPkFWpsG3P1I6OSMDn69ctTmKSaG8uq2P\/P\/tS3td6LjFFqRK9FPZW3OOqDw0mMShm85kbVufnJhYkXbPLGJQgzJIZxp\/H7HZ1RVSAVxXUdEd78iNj84c+EMNEbWAZk2R6tOt7n+kCoRMPLp+fdyNMIYIOj1wDxX4Z8k1cgP\/msZgOhM3EBOgpW+HAbEWuhYEv7jaD8vENu6+wGrgbjOyjx2kIfQizId7AR2s81c1U5ET\/veCm0G6b\/p1dpfAlaGu\/WFOEjGRL3Ykq3nXyjIDUQ+dQWZrY3fXpEpXKFkeiFLmBxK\/cmpm996KsfNKRy+FRX+6tWJ+Izcc9f\/GFgNKEBPRFqQAiZhufYRXRVq2XZkorvP39pCNJsiE27DNbXkTWQ7\/bZyZTpMqZqU2sz4mpG8pIpm+Xz77y8iom3iJD6Lf+8ww9yVB0xpWi+AbKpuojMa2HUnMHQDmBW4835eYVDs+K2NxdkIDh0bpMdDUIRxgmJ5bMRetGJ8avgKHrdAkpuVq\/Rymk8+5j8HStP7NSyKrUh92jXkoUsuA2eiJhnLdjxvmkfwnTknei7\/yPgvZFmUN+KkjLHiXpT7ZVwgpaLtP4Z46VNgn97FCSTToPRqjJPnz0gJkS14zezHuUVVdFLJyr2gyLJN7xL5xUbSZFeiJtz\/2qtnqFyuzUhV3Q09HaCtdbNFW1JjVPBYSnx2vygh3SeHTkcvtgDGhp2WOHZsd6iRnlUYAbQi3H2CaLJh7JK4RHEMN1lwSQb1EF8Pq8XsJkFcCHmzJwso11NE8tMkp0jNCwTqeBGJ3hfVlhuwbQD9UeUtFgeo4mXmk2DIQOoibB+2ZmJ0igMdLklJki70tD8JU\/oULko6wwpzQT6nwP1ReKQOAVNqOJ2MjrDQpaPkpChD\/LBquox\/IxmyVtFH9xSuHayneCQO8h2WNsXV92PDp22uWCNdwXHoloKc55EmPwwtg+JSRRpCNCmddxRgfYylwK35ke4DM7nffQbKiXyKtxJQ\/O9XGZzJ0ji81OCDFFBbZNmPhnzxR273w0T1NXzSW1PPBm9hquNpqnIviWrwd68z8Ya8Jle5jcFtv6ogTvmXhRYnAYXUQe1c2BRHJ1nw5wf90q4RAnKOWFXNYKRW41LfUABiOEkgJ7YCvBzTGlDD87BFvvV1N3vp8EbLjTOCQ86yVQEcHULLZlAe0SF6iwyhRW+keiVs\/Ix3MCKYWIEd7hOp\/vd9ukGRsAxb5yituCvU5mIOER48T5AsmSLewyNU1DcpnYmrfxIlK5bhW8JuMu9c6Yti0ibmacvfnUfodvvV2laODudv5FmBZXzL2bKs25px7YMf75VIZaJkFEfVt2OyYl+plMD54Vn+IMgy7lr80fUn2H2GldiR3wmwiV4Hy4tzTYDeauueS5CoKHeK8DZ6oa+QgWfdJllKb3Sls7QpOBBPtPQ6UJf9tv3wcZ6ea1m5kdEBMXOsR91CHFXr4ASIXjLYAVRH5jIWthGHHTFeJMP8i1ViWYerTRldwl4H\/iDpt3rMtRNBpP5urYbwCdLoL9pmtejmS2oR5MuqoHHDYw22ZN7ixqV\/3hoJdB5EPOPu0sdtA5bZcsmRcTd6af\/pHs+DT4o8lwq0SKc7tlI1vcH4\/q\/W10QWZi7KwgXVkX4ui4h5p\/RIwoSg96Dkb0rN\/7KEMVslqRz9fG1Y+qby0u\/zg7a\/Ey\/ZBcoT2LqEE8QXers+8WYg6tlWUEaLPoBK+pv4uK1i+KdG6C+UNHgyP9ImHk7T1dIdrLNfUoiBPceam0nXbTs2hBphFOZlC0a1CP7\/K4L4Ok7Bmrz2UPZYqyMVqd2vieufv4zo92g6QaompvlWCGQadKUvYUReT2Oa+mOsSUeUtnLeNxn6QVm7elDICSBG57y2HCOtJo1TpCgHdJ+Zu2ubo5gmvdaPTtKs2nh0wPGbQZmJtcpckc7Z8XjwoNXbQjqkiHu77DXg6fcf8omNvQkpPQn8DhmJtijEVgPW+ZNkkfy+TzhQqrLL3EQW9L\/IDg7wJNVSIxx3ACPbjNclZuhFel6fCY22qq2ZHoWyikEaZN4czyTBRSAummNkDzA6kqLnF3e\/r7EwqmYJhDfce85B7dconQ5sEDhmaqasBk4HBN7w1A1hkbgVh42QWdSuNaPELWAkikDXLG7cO0yu8\/fmdzLhUQzKtfVIKoQdIezplz9TPRjv3samry5b0y35GaphqVimZWxmbpYcZFPw6eAsFBRGSjH6dZH\/TNK0gGK1ttgWPu0MmQNr84c0sbTgIftg\/yaaOKETNvAnDiM0uUDAEJI\/eHWxKjTZ\/OKUEDUxRvHNzsC7Zi6r8b5iRFlFf6iHnUgNYK2EVchgfsxjV0FuNrC3BdfZFuV4ez6cMJZGbY0pIFp3AYFiFifDPZyS0UXNrTkjL0Rn\/c9\/8A0oL6bSIsjwtKI41F8fkxY51qRJukekZaiz4g2mZJtDXSlbgVFMQ2lbT8zRm5+0p1pA\/WksW2cSXOEIlOFnSxEg0tGM0CKmjqrB4gY755mcEUnh4\/ygbWRY4JRj0akFk1vdNNH5tiSL6By7Dw1F+PjVd3fpWmyfLsRwnT7KU7Jw98SXe0xY5Cz5kRnWhD6S7iCcBoJ8NYBRa+gvuk3KTmGu+Kh93QHDQLA5Qq2tXVWikXJhdDSlCOO1bhXYASFz754TFTqB4ommjKleQe6xMgTTVFqlF32G+a0Am+YglCKvnIAApSYm2zHZHIDvnPDb0YhFqeIQNPalnGbSyuy\/nD8drjgFeIc+hW4KaL5YI5K276wtMopUIJpVnJvZkEWE\/BEKHaySWoMbo7Acgv0qYaqzKfu6usIYZfEdIYSeSw4l5ELBvF+Jf\/NXzH80z42at+P05qENK4Xi8zvfcBT5dKAe+albdG33oXBXT1Qemm1QDyYdh\/k0ZBcFEwdxECacsyhkT6enQEpEq+vtMNdD0N+f13cT2+JyBeHFvfBLTJZHLxdPKz7BjBdLj5thwpZcS7MNGtEMRXdB43XfBc8d\/cjXQ0vQNEWzYd8t7+UcHKb8jDmvub1gXiZqbPdbX3UXxb6WDoqxtS+g+ZMMGEy+0Q==",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/XK1Wmv1w0DW2pGZQiuauyJFq6_RKmUyI09l1c9PyGCs.js",
+
+
+      'HL_LOCALE': "en_US",
+      'TTS_URL': "",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'ADBLOCK_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': false,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"check_status": false},
+      'PLAYBACK_ID': "AAUIW5TbQbdZI8T-",
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': "",
+      'PLAYLIST_INDEX': null
+    });
+
+    yt.setMsg({
+      'EDITOR_AJAX_REQUEST_FAILED': "Something went wrong trying to get data from the server. Try again, or reload the page.",
+      'EDITOR_AJAX_REQUEST_503': "This functionality is not available right now. Please try again later.",
+      'LOADING': "Loading..."    });
+
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqbDktc1pvdWtCVlVFNU1zNUZ1ZFNfUEl2X2RLZ3xBQ3Jtc0tubnkxOS1nc2Rhb05PaUJrQ3ppVHpvalBtWXJCRHBMMmMwLXd1R1RSdTAwc1dEVnRUMmZKb3FBa1AwUUdEaWFLcF90b2YwYlpQMm8yY2J0SngyckRUdlFKX2Ezamk1OXY5dkVERkE3bUI3SmNBWHFlamdHRW43NlZOWE5uREZueU9qNEV1X3RGR1ZwenlRZUhkU1ZZeHN5T1lxNHc=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+      yt.setConfig('DISTILLER_CONFIG', {"owner_id": "71oU7JQbMQWCIvPtjHnUIw", "reauth": false, "host_override": "https:\/\/plus.googleapis.com", "video_id": "MPSRRcZ1H-w", "signin_url": "https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253DMPSRRcZ1H-w%26hl%3Den%26feature%3Dcomments%26app%3Ddesktop%26action_handle_signin%3Dtrue\u0026passive=true\u0026hl=en", "channel_id": "UC71oU7JQbMQWCIvPtjHnUIw", "privacy_setting": "PUBLIC", "page_size": null, "query": "http:\/\/www.youtube.com\/watch?v=MPSRRcZ1H-w"});
+
+
+  </script>
+
+
+    <style>
+      .watch-view-count {
+        letter-spacing: 2px;
+      }
+      .watch-view-count.go-activate .real-view-count {
+        display: none;
+      }
+      .watch-view-count .go-numberwheel-container {
+        display: inline-block;
+        width: 14px;
+        height: 17px;
+        overflow: hidden;
+        text-align: center;
+        line-height: 17px;
+      }
+      .watch-view-count .go-numberwheel {
+        display: block;
+        width: 14px;
+      }
+    </style>
+
+<script>yt.setConfig({'EVENT_ID': "Ww5vVP-1K4iGogPOzoHYAg",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.RjHDyp6HcuY.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTNblxMnnkVq6zZc6X8bkriwoLslEg",'GAPI_LOCALE': "en_US",'ONE_PICK_URL': "",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "CgtfS0FxenFsT2lxUQ%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "US",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20141118",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'INNERTUBE_API_VERSION': "v1",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflJMjf6f\/www-pageframe.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflEV5WrK\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-webp-vflxnsZTq.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-guide-webp-vflj1ZJKJ.css",'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-webp-vflo9SPmR.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflXs0FWW\/html5player.js",''         ],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 10,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'LOG_WEBP_STATS': true,'WEBP_ENABLED': true,'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"amPms": ["AM", "PM"], "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "firstWeekCutoffDay": 3, "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "formatShortDate": "MMM d, yyyy", "firstDayOfWeek": 0, "weekendRange": [6, 5], "formatLongDate": "MMMM d, yyyy h:mm a", "formatWeekdayShortTime": "EE h:mm a", "dateFormats": ["MMMM d, yyyy h:mm a", "MMMM d, yyyy", "MMM d, yyyy", "MMM d, yyyy"], "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "formatLongDateOnly": "MMMM d, yyyy"},'PAGE_CL': 80419164,'PAGE_BUILD_TIMESTAMP': "Thu Nov 20 14:45:40 2014 (1416523540)",'VARIANTS_CHECKSUM': "ad2935173056d962183cda61f4af663f",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"is_partner": "", "is_branded": "", "accept_language": "en-US,en;q=0.8", "guide_subs": "NA", "logged_in": false, "experiments": "3300016,3300016,3300106,3300106,3300133,3300133,3300137,3300137,3312197,3312197,3312478,3312478,902408,906211,906213,907259,909724,911435,911436,911507,912142,912328,912714,912719,912725,912811,912813,912817,912909,916928,916929,918119,918121,921603,922415,922417,922419,922804,922809,922810,922812,922930,923024,923363,925011,925018,927006,927622,927626,927881,929154,929507,929509,929820,929940,929943,929947,930812,930819,931943,931990,931991,931997,932404,933228,934032,934038,935021,935691,935692,935707,936211,937109,937422,937424,937506,937507,937512,937817,937912,938302,938639,938644,938646,938699,938703,938705,938808,9405633,940641,940918,940936,940938,942302,942606,942703,943301,943407,943410,943909,944464,944702,945088,945401,945909,946008,946803,947209,947215,947503,948124,949001,949004,949601,950303,950501,951301,951601,952302,952505,952605,952901,953003,953912,957103,957105,957201,960501"}});window.ytplayer = window.ytplayer || {};ytplayer.REFACTOR = true;  yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue",'MASTHEAD_NOTIFICATIONS_LABEL': {"other": "# unread notifications.", "case0": "0 unread notifications.", "case1": "1 unread notification."}});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbDktc1pvdWtCVlVFNU1zNUZ1ZFNfUEl2X2RLZ3xBQ3Jtc0tubnkxOS1nc2Rhb05PaUJrQ3ppVHpvalBtWXJCRHBMMmMwLXd1R1RSdTAwc1dEVnRUMmZKb3FBa1AwUUdEaWFLcF90b2YwYlpQMm8yY2J0SngyckRUdlFKX2Ezamk1OXY5dkVERkE3bUI3SmNBWHFlamdHRW43NlZOWE5uREZueU9qNEV1X3RGR1ZwenlRZUhkU1ZZeHN5T1lxNHc=",
+    'XSRF_REDIRECT_TOKEN': "U1uwh-bRNwPO83XWj1JmRqBSz_V8MTQxNjY1MDcxNkAxNDE2NTY0MzE2",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-webp-vflcbUHrP.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vflG6y2hC\/www-searchbox.js",'SBOX_SETTINGS': {"EXPERIMENT_STR": "", "REQUEST_DOMAIN": "us", "PQ": "", "SESSION_INDEX": null, "EXPERIMENT_ID": -1, "REQUEST_LANGUAGE": "en", "HAS_ON_SCREEN_KEYBOARD": false, "PSUGGEST_TOKEN": null},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed", "SUGGESTION_DISMISS_LABEL": "Dismiss"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vfl962LdF\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-webp-vflI2iFDW.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.subscription.init'],
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252F%26hl%3Den%26app%3Ddesktop%26action_handle_signin%3Dtrue\u0026passive=true\u0026hl=en"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 349);yt.setConfig({'TIMING_ACTION': "watch,watch7_html5",'TIMING_INFO': {"yt_lt": "cold", "yt_spf": 0, "ei": "Ww5vVP-1K4iGogPOzoHYAg", "yt_pl": 0, "e": "3300016,3300106,3300133,3300137,3312197,3312478,907259,912328,927622,932404,938644,943909,946008,947209,947215,948124,952302,952605,952901,953912,957103,957105,957201", "yt_li": 0, "yt_ad": 0}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbDktc1pvdWtCVlVFNU1zNUZ1ZFNfUEl2X2RLZ3xBQ3Jtc0tubnkxOS1nc2Rhb05PaUJrQ3ppVHpvalBtWXJCRHBMMmMwLXd1R1RSdTAwc1dEVnRUMmZKb3FBa1AwUUdEaWFLcF90b2YwYlpQMm8yY2J0SngyckRUdlFKX2Ezamk1OXY5dkVERkE3bUI3SmNBWHFlamdHRW43NlZOWE5uREZueU9qNEV1X3RGR1ZwenlRZUhkU1ZZeHN5T1lxNHc=",
+    'XSRF_REDIRECT_TOKEN': "U1uwh-bRNwPO83XWj1JmRqBSz_V8MTQxNjY1MDcxNkAxNDE2NTY0MzE2",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+<!-- Smart JS Insertion --></body></html>
+

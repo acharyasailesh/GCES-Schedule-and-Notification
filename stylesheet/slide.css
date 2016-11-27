@@ -1,0 +1,50 @@
+@font-face {
+    font-family: myWebFont2;
+    src: url("../webfonts/FRHND591.TTF");
+}
+.slide{
+	position: relative;
+	width: 100%;
+	height: 431px;
+}
+#simg{
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.desc{
+	text-align: center;
+	width: 1080px;
+	height: 40px;
+	margin: 0px auto;
+	position: absolute;
+	left: 0px;
+	top: 392px;
+	font: bold 20px myWebFont2;
+	background: rgba(255,255,255,0.4);
+}
+.leftButton{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: 0px;
+	top: 200px;
+}
+.rightButton{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: 1030px;
+	top: 200px;
+}
+.left, .right{
+	height: 50px;
+	width: 50px;
+}
+.slide > div{/*hiding for hover effect*/
+	opacity: 0;
+}
+.slide:hover > div{/*displaying when hover*/
+	opacity: 1;
+}

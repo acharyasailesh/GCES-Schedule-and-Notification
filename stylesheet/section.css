@@ -1,0 +1,31 @@
+.contentMain{
+	width: 1080px;
+	margin: 0px auto;
+	background: #ffffff;
+	border-left: 1px solid blue;
+	border-right: 1px solid blue;
+	-webkit-box-shadow: 5px 0px 8px -3px blue, -5px 0px 8px -3px blue;
+	-moz-box-shadow: 5px 0px 8px -3px blue, -5px 0px 8px -3px blue;
+	-o-box-shadow: 5px 0px 8px -3px blue, -5px 0px 8px -3px blue;
+	box-shadow: 5px 0px 8px -3px blue, -5px 0px 8px -3px blue;
+}
+.content{
+	padding: 30px;
+	width: 1020px;
+	height: 392px;
+	font: 16px tahoma, sans-serif;
+	line-height: 24px;
+}
+.content > p{
+	margin: 10px auto;
+}
+
+.list{
+	list-style-image: url('../images/bullet1.png');
+	list-style-position: inside;
+}
+.list li{
+	font: 15px tahoma, sans-serif;
+	margin: 5px;
+	padding: 10px 5px;
+}

@@ -1,0 +1,33 @@
+@font-face {/*web font */
+    font-family: myWebFont1;
+    src: url("../webfonts/MATURASC.TTF");
+}
+@font-face {
+    font-family: myWebFont;
+    src: url("../webfonts/LHANDW.TTF");
+}
+@font-face {
+    font-family: myWebFont2;
+    src: url("../webfonts/AMAZONEN.TTF");
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font: bold 20px Tahoma;
+}
+h2{
+    font: bold 16px Tahoma;
+}
+header, section, footer, aside, nav, article, hgroup, figure{
+    display: block;
+}
+body{
+    background: linear-gradient(135deg, #ADD8E6 24%, #ffffff 26%, #ffffff 49%, #ADD8E6 51%, #ADD8E6 74%, #ffffff 76%);
+    background-size: 5px 5px;
+    /* creating stripes in above two lines   */
+    background-attachment: fixed;
+    color: #222222;
+}
+}

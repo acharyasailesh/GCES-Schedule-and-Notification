@@ -1,0 +1,6 @@
+session_regenerate_id();
+$_SESSION['']=$userdata[''];
+session_write_close();
+header('Location:home.php');
+
+

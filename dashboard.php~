@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>GCES</title>
+        <link rel="stylesheet" href="stylesheet/general.css">
+        <link rel="stylesheet" href="stylesheet/dashboard.css">
+    </head>
+
+	<body>
+		<aside class="sideBar">
+			<ul>
+				<li id="menu1" class="current">HOME</li>
+				<li id="menu2">Setting</li>
+				<li id="menu4">Task</li>
+				<li id="menu5">Schedule</li>
+				<li id="menu6">Log Out</li>
+				<li id="menu7">About me</li>
+			</ul>	
+		</aside>
+		<section>
+			<article class="content">
+				<p>
+					GCES NOTIFICATION is a web application for managing, displaying and updating the class routine for all semester of GCES. The main purposes of this project is for easy way of assigning the assignment to the students. It also helps in giving notices by the college and teachers. 
+				</p>
+				<p>
+					In the current 21st century, being student of IT we still used pen and paper for routines and notices. It is costly and time consuming as we have to print them again and again even if there is a minor change.  It has many limitations and compels students to visit college even in time of vacations. GCES NOTIFICATION tries to implement the paperless system through the web.
+				</P>
+				<p>
+					GCES College is a large institution with many members who have different likes and dislikes when it comes to OS and devices. It makes it impossible to make a system in any one environment and implement it. Hence GCES NOTIFICATION uses web as a platform thus all students and teachers of this institution should be able to use it with ease. 
+				</p>
+			</article>
+		</section>
+	</body>
+</html>

@@ -1,0 +1,35 @@
+.footbar{
+	text-align: center;
+	background-color: #90c0e0;
+	font-size: 13px;
+	clear: both;
+}
+.footbar a{
+	color: darkblue;
+	text-decoration: none;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	background: -moz-linear-gradient(#ffffff,#ADD8E6);/*for mozilla*/
+    background: -webkit-linear-gradient(#ffffff,#ADD8E6);/*for crome and safari*/
+    background: -o-linear-gradient(#ffffff,#ADD8E6);/*for opera*/
+	background: linear-gradient(#ffffff,#ADD8E6);
+	height: 82px;
+}
+.footContent{
+	padding: 10px;
+	font-size: 12px;
+}
+.footContent > div{
+	margin: 0px auto;
+	width: 600px;
+	height: 40px;
+}
+.flist{
+	list-style: none;
+	padding: 10px 15px;
+	width:268px;
+	float: left;
+	text-align: left;
+}

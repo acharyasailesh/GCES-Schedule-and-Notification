@@ -1,0 +1,53 @@
+.sideBar{
+	//border: 1px solid black;
+	color: blue;
+	width: 140px;
+	margin: 15px 5px 15px 15px; 
+	font: left;
+	float: left;
+}
+ul{
+	list-style: none;
+}
+.menu{
+	padding: 5px 15px;
+	border: 1px dotted blue;
+	margin: 5px;
+	background: lightblue;
+}
+.current{
+	padding: 5px 15px;
+	border: 1px solid blue;
+	margin: 5px;
+	background:  #9DC8D6;
+	color: darkblue;
+}
+#logout{
+	width: 116px;
+	text-align: center;
+	margin: 5px;
+}
+.dashcontent{
+	margin: 10px 0px 10px 0px;
+	border-left: 2px solid blue;
+	width: 1040px;
+	min-height: 400px;
+	float: left;
+}
+.notice{
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid lightblue;
+	background: white;
+	border-radius: 5px;
+}
+.notice h3{
+	margin: 0px 0px 0px 50px;
+	color: darkblue;
+}
+.notice p{
+	font-size: 15px;
+	line-height: 19px;
+	padding: 5px;
+	margin: 0px 0px 0px 20px;
+}
